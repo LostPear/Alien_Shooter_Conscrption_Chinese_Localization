@@ -1,0 +1,724 @@
+;38 TEXT lINE LENGHT SHOULD FIT THE WINDOW LENTGH.
+;default font
+<Font=6>
+<DefaultFontForRadio=10>
+;default cooridnates of speaking units
+<Coor=0,0,100>
+;<Speech=Speech\1_1.OGG>
+;<click or pause>
+;если имя диалога типа <число1_число2>, то число 2 должно быть меньше 1000
+
+;************GENERAL************
+<1_1>
+<SFX=98>
+SECRET PLACE FOUND!
+
+<1_2>
+<SFX=106>
+ACCESS DENIED!
+
+<1_3>
+<SFX=106>
+SYSTEM ERROR
+
+<1_3>
+<SFX=106>
+THE DOOR IS LOCKED FROM INSIDE
+
+;************LEVEL 1************
+<1>
+<Font=10>
+<Icon=391,2>
+Hey man! There's some crash on the bottom level 
+of the base again. Go and check this out
+while I am writing complaint
+against these builders!
+
+
+<2>
+<Font=10>
+<Icon=391,5>
+Good start, rookie!
+Our engineer likes to play the "Big Boss".
+
+
+<3>
+Whoa, that's quite a hole,
+I better go and tell the engineer!
+
+
+
+<4>
+Are you all crazy over there?!
+
+<pause>
+Where's the emergency lighter switch?
+
+
+<5>
+Oh my, and I've been told it's a quite base.
+
+<6>
+What a nice beast!
+
+<pause>
+Hey, stop biting!
+
+
+<7>
+<Font=10>
+<Icon=391,2>
+Looks like I was wrong blaming the builders!
+General evacuation! Time to get lost!
+
+<pause>
+Where are YOU going? 
+Have'you seen the instruction?!
+File- server is situated on this level, 
+save or destroy the secret data!
+
+
+<8>
+Can't all the engineers be so much cowards...
+
+<pause>
+I'll try to reach the exit.
+
+<9>
+It was really strange of me to wait for help
+from this engineer.
+How do I unlock this...
+
+<10>
+Seems like control panel is there.
+If I don't find the key,
+the monsters will enjoy substantial launch. 
+
+
+
+<10_1>
+Shall I go and let the monsters eat me or 
+shall I be tried by a military tribunal...
+I better die as a hero! 
+
+;************LEVEL 2************
+<11>
+Seems it was much more quiet inside.
+Need to reach evacuation station.
+
+
+
+<12>
+Doesn't look like I can fly on this helicopter...
+
+
+<13>
+<Font=10>
+<Icon=391,3>
+<SFX=115>
+Is the whole group destroyed?!
+
+...
+Go to the main square! Faster!
+we can't wait forever.
+
+
+
+<14>
+<Font=10>
+<Icon=391,5>
+Private!
+Follow me, my group needs reinforcement.
+It's an order!
+
+<15>
+<Font=10>
+<Icon=391,5>
+Where were you?!
+
+<pause>
+Take the explosive
+and destroy those beasts holes.
+
+
+<16>
+<Font=10>
+<Icon=391,5>
+Faster! We got time to clear off. 
+
+
+<17>
+<Font=10>
+<Icon=391,5>
+Everybody to the locations!
+
+<pause>
+Private, go to the center of the hall
+and bring me activation disk.
+Cover him!
+
+
+
+<18>
+<Font=10>
+<Icon=391,5>
+Not bad for the recruit.
+
+<pause>
+Field store is activated,
+in case you want to get out alive,
+replenish the ammunition load.
+You can go now.
+
+
+
+<19>
+What a strange staff, was it really 
+important to risk my life for it...
+
+
+;************LEVEL 3************
+<20>
+<Font=10>
+<Icon=391,2>
+Lucky you, not many people survived there.
+Go to the General, he would like to meet
+every survivor in person.
+
+
+<21>
+<Font=10>
+<Icon=391,0>
+Hope you realise that the situation
+on the battle- front isn't that good, 
+we are loosing the cities one by one.
+<pause>
+If we don't initiate anything, the only 
+creatures left on the Earth will be those 
+beasts.
+
+
+<22>
+<Font=10>
+<Icon=391,2>
+General, we got one more breakthrough
+in sector 5E13, they need help!
+
+<23>
+<Font=10>
+<Icon=391,0>
+Send sergeant Donaldson's 
+division there immediately!
+
+<pause>
+Private, I am adding you to
+Donaldson's division.
+Move to the control point 
+and pass this information.
+
+
+<24>
+<Font=10>
+<Icon=391,0>
+Corporal, you can go!
+
+
+<25>
+<Font=10>
+<Icon=391,5>
+Newbie!
+Let's see you fighting.
+Drop your gun and take this one,
+hope it will keep you alive longer.
+
+
+
+<26>
+<Font=10>
+<Icon=391,5>
+Sergeant is in barracks.
+Go through the basement, 
+the manhole is in the garage.
+
+
+<27>
+<Font=10>
+<Icon=391,5>
+Sergeant Donaldson is upstairs in his 
+room, you've been reported about.
+
+
+<28>
+<Font=10>
+<Icon=391,6>
+Hope we're not late,
+Follow me!
+
+
+<29>
+<Font=10>
+<Icon=391,6>
+Oh no!
+We'll go roundabout way.
+
+
+<30>
+<Font=10>
+<Icon=391,6>
+To the position!
+The helicopters protect acesses to the sector,
+take the car and get rid of these beasts.
+Execute!
+
+
+;************LEVEL 4************
+<31>
+I'll try to go round, walking
+would be less pleasant.
+
+
+<32>
+Great! Well, walking is my favorite 
+from the childhood! 
+
+
+<33>
+Hope I am not late for the party,
+need to hurry up!
+
+
+
+;************LEVEL 5************
+<5_1>
+What is it behind this door? 
+Why do they guard this place so heavy?
+     
+
+<34>
+<Font=10>
+<Icon=391,5>
+Private! Are you going to walk around 
+and wait until we all die here?
+
+
+<35>
+<Font=10>
+<Icon=391,5>
+To the position, 
+the enemy is from the front!
+
+<36>
+<Font=10>
+<Icon=391,5>
+Where were you? Donalson's guys are here already!
+There should be ammunition on the power station,
+take private Myers and run there quickly.  
+
+
+<37>
+What a place.
+That coward stayed there not for nothing.
+
+
+<38>
+<Font=10>
+<Icon=391,3>
+Sergeant Donaldson speaking, they have broken 
+the defence through, all the communications 
+channels are disabled.
+Run to radio set and try to connect with the 
+headquarters, if we got no reinforcement we'll 
+loose that object!
+
+ 
+
+<39>
+Hope this junk works.
+
+
+<40>
+<Font=10>
+<Icon=391,4>
+Request accepted. Reinforcement group will
+arrive to the helipad.
+Cover them.
+ 
+
+<41>
+That's strange, why reinforcement
+team is landing here...   
+
+
+<42>
+Hope I'll be in time.
+
+
+<43>
+Thanks but no, I won't go back to this hell alone.
+Where is this helipad!
+ 
+
+<44>
+Interesting terminal...
+Great, that's my dream to get such!
+
+
+<45>
+Follow me, Donaldson's division is not far away!
+
+
+<46>
+<Font=10>
+<Icon=391,5>
+He's the only one alive, kill him!
+
+
+<47>
+Wow, this access card gives me a chance!
+I'll go and check what they keep in these bunkers.
+
+
+<48>
+<Font=10>
+<Icon=391,5>
+Hey, let me wait here,
+it's just half of the year till my discharge...
+
+;************LEVEL 6************
+<49>
+<Font=10>
+<Icon=391,4>
+SYSTEM STATUS:
+****************************
+EMERGENCY MODE - ACTIVE
+DOORS BLOCK - 50%
+LIGHTING - INACTIVE
+PUMPS - №?&ERROR#$№
+
+<50>
+Looks like this bunker is neglected
+for a long time already.
+I' ll try to re-establish the power supply.
+
+
+<51>
+Didn't plan swimming for sure.
+
+
+<52>
+Here's power producing cabinet.
+
+
+<53>
+Let's try...
+
+<54>
+Seems like stabilizer has failed,
+however the right wing is unblocked.
+Hope there's repair cabinet over there...
+ 
+
+<55>
+That's what I need!
+
+<56>
+Blocked, so tired of these mysteries...
+
+
+<57>
+Here's the key.
+
+<58>
+Oh no! No short circuit please!
+
+
+
+<59>
+Power circuits have failed,
+I' ll try to stop the process
+of liquidation from the master terminal.
+
+
+<60>
+Great! Liquidation is irreversible,
+time to get lost.
+
+
+<61>
+Never used the teleports,
+anyways, have no other choice...
+
+
+;************LEVEL 7************
+<62>
+Interesting place, I bet these are 
+aliens' eggs.
+
+
+<63>
+<Font=10>
+<Icon=391,5>
+Hey guys, look,
+that's all they've sent us for reinforcement!
+Where is your division, soldier?
+
+<pause>
+This teleport works in 
+only one direction.
+Let's go to the corporal, seems 
+there's nobody to wait for help,
+need to get away from here.
+
+
+<64>
+<Font=10>
+<Icon=391,5>
+Come in, corporal is waiting for you.
+ 
+
+<65>
+<Font=10>
+<Icon=391,1>
+Hey private, it's amazing you've survived.
+Call me Jane.
+
+<pause>
+I think you're right, somebody wants to
+cover up one's tracks, need to get out of here, 
+otherwise we might end as Donaldson's division...
+He was an excellent soldier. 
+
+<pause>
+I will revenge myself upon his death. Follow me!
+
+
+
+<66>
+<Font=10>
+<Icon=391,1>
+Oh no! The entrance is blocked up.
+Well, it's time for you to get 
+acquainted with our tame doggie.
+Go down through the caves, i am holding
+the position!
+Use walkie- talkie!
+ 
+<67>
+<Font=10>
+<Icon=391,3>
+<SFX=115>
+Good job, take this control panel
+and don't be surprised. Until he wears
+the collar- he's under our control. 
+
+<68>
+<Font=10>
+<Icon=391,3>
+<SFX=115>
+Bring him here!
+
+<69>
+<Font=10>
+<Icon=391,1>
+Great doggie!
+I've no idea who made this and what for,
+but we wouldn't stay alive here without him.
+
+
+
+<70>
+<Font=10>
+<Icon=391,5>
+Thanks, take it, I wouldn't survive without you.
+
+;************LEVEL 8************
+<71>
+<Font=10>
+<Icon=391,1>
+I've found the map of the caves in archived files.
+Teleport should be somewhere here.
+Let's go, hope it works.
+
+
+
+<71_1>
+<Font=10>
+<Icon=391,1>
+Look! Monsters need friends!
+
+
+<72>
+<Font=10>
+<Icon=391,1>
+What is that?
+Circular defence!
+
+
+<73>
+There should be by-pass route!
+
+
+<74>
+<Font=10>
+<Icon=391,1>
+Follow me, here's the way!
+
+
+<75>
+<Font=10>
+<Icon=391,1>
+Teleport is here.
+Clean the territory, I'll try to activate it.
+
+
+<76>
+<Font=10>
+<Icon=391,1>
+Faster, I don't know how much energy we got.
+Jump into teleport!
+
+
+<77>
+Jane, do you feel it?
+The Earth is shaking under the feet!
+
+
+<78>
+No retreat!
+
+;************LEVEL 9************
+<79>
+<Font=10>
+<Icon=391,1>
+That was not easy.
+Let's go, we need to find the headquarters of this 
+base and sort everything out.
+
+
+<80>
+<Font=10>
+<Icon=391,5>
+Here are the survivors from bunker. Alarm!
+
+
+<81>
+<Font=10>
+<Icon=391,1>
+Unlucky start, to the battle!  
+
+
+<82>
+Bastards!
+
+<83>
+Jane needs help,
+we need to find the way up!
+
+<84>
+<Font=10>
+<Icon=391,7>
+They made me do this!
+
+<pause>
+Sure, I' ll tell you how to get upstairs,
+take my access card.
+
+
+<85>
+<Font=10>
+<Icon=391,7>
+Hey stop, there's no chance
+for me to get out of here,
+please, destroy everything we've created.
+
+
+<pause>
+Yeah, I know it's horrible!
+The incubator is in the left wing of the base,
+don't let them destroy the Earth.
+
+
+<86>
+The way is free, we need to move further.
+
+
+<87>
+<Font=10>
+<Icon=391,1>
+The elevator is blocked,
+try to bypass the guard from terminal side.
+
+
+<88>
+<Font=10>
+<Icon=391,1>
+Faster, until they didn't come to their senses!
+
+
+;************LEVEL 10************
+<89>
+<Font=10>
+<Icon=391,1>
+General, what for?!
+The whole humanity will die!
+
+
+
+<90>
+<Font=10>
+<Icon=391,0>
+Jane, you're good soldier, but you'll never understand!
+It's a pity our roads turn to different directions now!
+
+
+<91>
+<Font=10>
+<Icon=391,0>
+Remind me, how many times you should have been 
+dead already?
+Sorry, but I got no time right now, hope my boys
+will succeed in finishing what we have started!
+
+
+<92>
+<Font=10>
+<Icon=391,0>
+
+You got not so much time left!
+Save the gunshots, soldier!
+
+
+<93>
+<Font=10>
+<Icon=391,8>
+I heard everything, but he said
+that's the only way we can cope with 
+invasion!
+
+<pause>
+Follow me, I know how to stop it.
+
+
+<94>
+<Font=10>
+<Icon=391,8>
+I'll unblock the elevator from here,
+cover me!
+
+
+<95>
+<Font=10>
+<Icon=391,8>
+Ready. There are reactors in the basement,
+blow them up and we'll be done with it.
+Hurry up!
+ 
+
+
+<96>
+<Font=10>
+<Icon=391,0>
+You're here again.
+Wanna stop me by yourself?
+You know what?! 
+With monsters army I am gonna rule the world!

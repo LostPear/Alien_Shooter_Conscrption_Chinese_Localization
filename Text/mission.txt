@@ -1,0 +1,201 @@
+<1_1_2>
+Inspect lower level of the base
+<1_1_3>
+Turn the emergency lighting on
+<1_1_4>
+Find the exit
+<1_1_5>
+Unblock the doors
+<1_1_6>
+Find the key from control room
+<1_1_7>
+Open the doors
+<1_2_1>
+Get the data from file- server
+<1_2_3>
+Help the soldiers
+<1_2_4>
+Bring the activation disk
+<1_2_6>
+Meet the general
+<1_1_10>
+Go to evacuation point
+<1_1_11>
+Stop the aliens attacks
+<1_1_14>
+Go to control point ¹13
+<1_1_15>
+Find sergeant Donaldson
+<1_1_16>
+Go back to the garage
+<1_1_17>
+Go to the gates
+<1_1_19>
+Walk along the road
+<1_1_20>
+Use bypass road
+<1_1_21>
+Leave the transport and go back to your mission
+<1_1_24>
+Go to power station
+<1_1_25>
+Establish conection with the headquarters 
+<1_1_26>
+Meet the reinforcement
+<1_1_27>
+Destroy the enemy
+<1_1_28>
+Open the bunker
+<1_1_31>
+Activate the generator
+<1_1_32>
+Find spare stabilizer
+<1_1_33>
+Change stabilzer
+<1_1_34>
+Disable self-destruction system
+<1_1_35>
+Leave the bunker before explosion
+<1_1_38>
+Meet the corporal
+<1_1_39>
+Follow Jane, she shouldn't die
+<1_1_40>
+Find the way to remove obstruction
+<1_1_41>
+Lead monster to obstruction
+<1_1_44>
+Wait for Jane command
+<1_1_46>
+Destroy monster's queen
+<1_1_50>
+Talk to Jane
+<1_1_51>
+Go to the elevator
+<1_1_52>
+Activate the elevator
+<1_1_53>
+Go back to Jane
+<1_1_54>
+Find the way upstairs
+<1_1_55>
+Get to the stairs in working area
+<1_1_59>
+Find the general
+<1_1_62>
+Go to the exit
+<1_1_63>
+Search the dead soldiers
+<1_1_64>
+Mine the generator
+<1_2_11>
+Destroy the incubator
+<1_2_13>
+Activate the elevator
+<1_2_14>
+Go to the basement
+<Lvl_01>
+                                  <Font=22>From: <Font=23>DEPARTMENT OF WAR
+                                  <Font=22>To: <Font=23><PlayerName>
+                                  <Font=22>Date: <Font=23>Tenth  day of  June,   2020
+                                  <Font=23>
+                                                       United States of America
+                                                       DEPARTMENT OF WAR
+
+Private soldier
+1236 Parker Street
+Old Lyme, Connecticut
+                                                                                               National Service
+                                                                                               Registration Office,
+                                                                                               15 Baker Street
+                                                                                               New York city
+                                                                                                                              
+Registration No.       3038747
+
+CALL-UP NOTICE
+
+You are hereby called up for national service with the 
+Military Forces of the USA.
+
+You are required to present yourself to Officer Commanding,
+
+at                                    Pennsylvania Station, New York
+
+on the                             10th     day  of  June,   2020   at  8 a.m.
+
+
+This notice should be presented together with your
+Certificate of Registration when you report for service.
+
+
+Dated this   tenth  day of  June,   2020 
+
+
+                                                            (  P.H. Sanders )
+                                                              Secretary
+
+
+
+
+<1_4_7Coment2>
+ 
+<1_1_1Coment2>
+Protect the complex
+<1_1_9Coment2>
+Get out of the city
+<1_1_4Coment2>
+Leave the complex
+<1_1_100Coment2>
+Destroy the teleports
+<1_1_23Coment2>
+Protect the bunker
+<1_1_13Coment2>
+Pass on directions of the command
+<1_1_19Coment2>
+Get to the bunker
+<1_1_16Coment2>
+Get to the bunker
+<1_1_40Coment2>
+Open the gates
+<1_1_43Coment2>
+Follow Jane, she shouldn't die
+<1_1_49Coment2>
+Go to general's room 
+<1_1_46Coment2>
+Wait for teleport activation
+<1_1_47Coment2>
+Leave the caves
+<1_1_30Coment2>
+Examine the bunker
+<1_1_38Coment2>
+Follow the soldiers
+<1_1_37Coment2>
+Examine the area
+<1_1_90Coment2>
+DESTROY FIVE EXPERIMENTAL CAPSULES
+<1_1_92Coment2>
+RESCUE KATE LIA
+<1_1_98Coment2>
+RESCUE KATE LIA
+<1_1_60Coment2>
+Destroy the general
+<1_1_68Coment2>
+ENTER ALIEN TERRITORY
+<1_1_64Coment2>
+Blow up the generator
+<1_1_65Coment2>
+Leave the base before explosion
+<1_1_66Coment2>
+EXPLORE THE MINES
+<1_1_58Coment2>
+Stop the general
+<1_1_57Coment2>
+Find Jane
+<1_1_81Coment2>
+SWITCH ON THE MAIN GENERATOR
+<1_1_87Coment2>
+SAVE THE COMPANY DATA
+<1_1_71Coment2>
+RESCUE KATE
+<1_1_77Coment2>
+GET ACCESS TO THE 

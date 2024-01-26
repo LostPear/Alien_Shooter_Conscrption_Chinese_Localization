@@ -1,0 +1,21 @@
+<ListOfHeroSkills>
+Implants
+Intelligence
+Health
+Strength
+Armor
+Speed
+Accuracy
+Handguns
+Shotguns 
+Minigun/Rifle 
+Grenade/Rocket 
+Flame/Energy 
+Cash
+Sex
+Maximum Health 
+Accuracy
+Injury
+Rank
+XP
+Cash

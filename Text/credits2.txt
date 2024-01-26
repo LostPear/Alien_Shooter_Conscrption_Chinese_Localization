@@ -1,0 +1,18 @@
+<Font=4>
+MUSIC & SOUND
+<Font=3>Alexander Shushkov
+<Font=3>Denis Kolobaev
+<Font=3>Nikolay Zmanovsky
+
+<Font=4>
+PRODUCERS
+<Font=3>Michael Murashov
+<Font=3>Achim Heidelauf
+
+<Font=4>
+SPECIAL THANKS
+<Font=3>Natalia Morozova
+<Font=3>Art Paderin
+<Font=3>Andrey Viktorov
+<Font=3>Ilya Voronov
+<Font=3>Christian Vincent (Ve2vlc)

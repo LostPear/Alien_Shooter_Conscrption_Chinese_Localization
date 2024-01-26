@@ -1,0 +1,21 @@
+<Font=4>
+PROGRAMMING
+<Font=3>Vitaliy Maltsev
+Peter Zmanovsky
+
+<Font=4>
+GAME DESIGN
+<Font=3>Alexander Shushkov
+Maxim Postnikov
+
+<Font=4>
+LEVEL DESIGN
+<Font=3>Maxim Postnikov
+Alexander Shushkov
+
+
+<Font=4>
+ART & 3D ART
+<Font=3>Alexander Shushkov
+Vyacheslav Sedovich
+Tatyana Ovchar

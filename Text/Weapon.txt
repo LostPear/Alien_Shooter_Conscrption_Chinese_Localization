@@ -1,0 +1,1693 @@
+<Ammo_pistol>
+<Font=04>
+HANDGUN AMMO 
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Standard slugs for
+all handguns.
+
+<Ammo_shotgun>
+<Font=04>
+SHOTGUN SHELLS 
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Standard ammo for 
+pump action shotguns.
+
+<Ammo_granate>
+<Font=04>
+GRENADE LAUNCHER AMMO
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Used in grenade launchers 
+and mortars.
+
+<Ammo_ballon>
+<Font=04>
+FLAME-THROWER AMMO
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Used in all flamethrowers 
+and napalm weapons.
+ 
+<Ammo_minigun>
+<Font=04>
+MACHINE GUN ROUNDS 
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Used in all submachine 
+and machine guns.
+
+<Ammo_rocket>
+<Font=04>
+ROCKET LAUNCHER AMMO
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Used in rocket launchers.
+
+<Ammo_energy>
+<Font=04>
+ENERGY WEAPON CHARGES 
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Batteries that fuel "energy
+weapons," very advanced
+(and expensive) weapons.
+
+<Obj_money1>
+<split>
+<Font=04>
++$20
+
+<Obj_money2>
+<split>
+<Font=04>
++$100
+
+<Obj_money3> 
+<split>
+<Font=04>
++$300
+
+<Obj_money4>
+<split>
+<Font=04>
++$1000
+
+<Pistol_nail>
+<Font=04>
+NAIL GUN 
+<split>
+<Font=05>
+Damage:               <Align=14><Font=03><Damage><Font=05>
+Accuracy:                  <Align=14><Font=03><Wp_acc><Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Unlimited ammo. Good
+for pincushioning things.
+
+<Pistol_DesertEgle>
+<Font=04>
+DESERT EAGLE
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Designed as a sport pistol. 
+Used in numerous movies,
+giving it something of a 
+reputation. This is one of
+the few gas-operated 
+handguns ever produced, 
+as well as one of the most 
+powerful.
+
+<Pistol_flash>
+<Font=04>
+FLASH PISTOL
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Uses small flares to
+lighten dark areas. 
+Has unlimited ammo.
+
+<Pistol_revolver>
+<Font=04>
+MAGNUM 44
+<split>
+<Font=05>
+ÉËº¦:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A fast and easy-to-use
+pistol, making it a good
+choice for beginners.
+
+<Pistol_colt45>
+<Font=04>
+COLT .45
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Also known as 'Peacemaker,'
+the .45 is one of the most 
+popular and legendary pistols
+in the world. Produced for over
+200 years and still very popular.
+
+<Pistol_pm>
+<Font=04>
+PM-5
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A Russian handgun, called 
+'Makarov PM.' Simple, sound, 
+and inexpensive, this is
+one of the best compact 
+pistols around.
+
+
+<Pistol_sigsauer>
+<Font=04>
+SIG-SAUER P250 DCc
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A reliable German handgun 
+with high fire accuracy 
+and easy handling.
+
+
+<Pistol_GLK>
+<Font=04>
+GLK P5
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A modern design, using
+a barrel cooling system 
+that enables it to have
+a very high rate of fire.
+
+<Pistol_red>
+<Font=04>
+PROTOTYPE ET5
+<split>
+<Font=05> 
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Developed in M.A.G.M.A.'s 
+Energy Research Lab; exists 
+in one variant only.
+
+
+<Pistol_beretta2>
+<Font=04>
+BERETTA L5
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+This is the Gendarmerie 
+variant, adopted by French 
+National Gendarmerie. It is
+manufactured in France 
+by GIAT Industries. 
+
+
+<Pistol_sigp250>
+<Font=04>
+SIG-SAUER SIG PRO
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Used by the US Drug Enforcement 
+Administration (DEA) as well as 
+numerous other law enforcement 
+agencies worldwide.
+
+<Pistol_beretta>
+<Font=04> 
+BERETTA GL15
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost> 
+<split>
+<Font=03>
+Combines the best concepts 
+of combat handguns in one
+design. It is powerful, easy 
+to handle, and reliable. The
+Beretta is the leading pistol
+for personal defense as well 
+as law enforcement use.
+
+
+<Pistol_btk>
+<Font=04>
+BITTLER g2
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A secret weapon, utilized
+only by Special Forces types.
+
+
+<Pistol_comando>
+<Font=04>
+LIBERT SP-120 J5
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A unique handgun developed 
+especially for senior security 
+guards of the M.A.G.M.A. Energy
+Corporation.
+
+<ShotGun_mossberg>
+<Font=04>
+SHOTGUN MOSSBERG 500 
+"CRUISER"
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+One of the most popular 
+and versatile US-made 
+pump action shotguns.
+
+
+<ShotGun_dm5>
+<Font=04>
+SHOTGUN SLIBERT DM5
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The next generation of pump action 
+shotguns; the DM5 uses an eight-round
+magazine and a short barrel. This
+is an optimal weapon for close
+encounters. 
+
+
+<ShotGun_rife2>
+<Font=04>
+SHOTGUN FABARM SDASS
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+An Italian shotgun with a folding 
+front sight and built-in weaver-style 
+rails on the top of the receiver. 
+Overall, an easy shotgun to handle.
+
+<ShotGun_rife1>
+<Font=04>
+SHOTGUN BERETTA 1201 FP
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A smooth-bore shotgun developed 
+at the end of the 1980s by Beretta.
+
+
+<ShotGun_dm15>
+<Font=04>
+SHOTGUN SLIBERT DM50
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A modified DM5. It has a prolonged
+barrel and cooling radiator, which
+provides a high rate of fire. High
+quality optical sights enhance accuracy. 
+
+
+<ShotGun_duble>
+<Font=04>
+DOUBLE SHOTGUN RUIN S2
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A home-made sawed-off shotgun 
+with two shortened barrels. Good
+for clearing rooms in short order.
+
+<ShotGun_solder>
+<Font=04>
+SHOTGUN SR10
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Standard shotgun employed by
+the world's military. Has a 
+high rate of fire and decent
+power.
+
+<ShotGun_craft>
+<Font=04>
+CRAFT SP200
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A special nozzle neutralizes this
+shotgun's blast. It has a high rate of 
+fire thanks to a reinforced barrel 
+and a trigger modification.
+
+<ShotGun_craft2>
+<Font=04>
+CRAFT S-100
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Light version of CRAFT SP200 gun.
+A special nozzle neutralizes this
+shotgun's blast.
+
+<ShotGun_jack>
+<Font=04>
+JACKHAMMER MK3A1
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A gas-operated, fully automatic 
+shotgun with a floating barrel 
+and revolver-type detachable 
+clips, called "Ammo Cassettes".
+
+
+<Minigun_uzi>
+<Font=04>
+MINI UZI
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05> 
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A shortened ('bullpup') version 
+of the venerable Israeli submachine 
+gun. A high rate of fire makes 
+up for its lack of stopping power.
+
+
+<Minigun_hkmp5>
+<Font=04>
+HK MP5
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+An outdated submachine gun, but
+very popular among anti-terrorist 
+squads.
+
+<Minigun_machine>
+<Font=04>
+MACHINE GUN M240G
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A lightened machinegun utilized
+by the US Marine Corps. It's high
+stopping power is balanced by a low
+rate of fire.
+
+
+<Minigun_KG-9>
+<Font=04>
+INTERDYNAMIC KG-9
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05> 
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The ultimate in slug-based firepower,
+so much so that its manufacture was
+restricted by the US Assault Weapons 
+Ban of 1994. Its unique looks, huge 
+magazine capacity, and low price 
+have made it very popular.
+
+<Minigun_vihr-sp4>
+<Font=04>
+VIKHR SR-4
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A compact assault rifle 
+intended for concealment; 
+used mostly by special VIP 
+protection teams and 
+State security operatives.
+
+<Minigun_g11>
+<Font=04>
+HECKLER UND KOCH G11
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A German assault rifle noted 
+for its use of caseless 
+ammunition. A reliable weapon 
+with high accuracy.
+
+
+<Minigun_steyr>
+<Font=04>
+STEYR AUG
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A universal rifle designed 
+on a bullpup principle, enabling 
+it with high accuracy and 
+easy handling.
+
+
+<Minigun_ak>
+<Font=04>
+AKM
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The classic Russian assault rifle. 
+Reliable, especially in harsh
+conditions. Easy to use and maintain.
+
+<Minigun_m16>
+<Font=04>
+ASSAULT RIFLE M16A1
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The well-known American M16 
+assault rifle, a weapon with 
+a good range of qualities.
+
+
+<Minigun_112w2>
+<Font=04>
+HECKLER-KOCH XM-29 OICW
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A good weapon, with high
+accuracy and excellent 
+ability to pierce armor.
+
+
+<Minigun_battle1>
+<Font=04>
+BT-3 RIFLE
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+An assault rifle with 
+tremendous firepower.
+
+<Minigun_battle2>
+<Font=04>
+DISEMBOWEL H240
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The most powerful assault 
+rifle in its class. Very 
+effective against large 
+crowds of charging enemies.
+
+
+<Minigun_volcano1>
+<Font=04>
+VOLCANO G2000
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A hand-held machine gun with
+a high rate of fire and 
+excellent damage.
+
+
+<Minigun_volcano2>
+<Font=04>
+VOLCANO GP5500
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+An enhanced model of the VOLCANO 
+hand-held machine gun. This
+model is equipped with batteries,
+giving it a high fire rate, high 
+velocity and dealing large amounts 
+of damange. 
+
+<Minigun_volcano3>
+<Font=04>
+SLRK ATOM S100
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The latest model of the popular 
+Minigun/Rifle Skill series.
+
+
+<Granade_m79>
+<Font=04>
+GRENADE LAUNCHER M-79
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+An outdated but cheap and 
+reliable hand-held grenade 
+launcher. 
+
+<Granade_rg6>
+<Font=04>
+GRENADE LAUNCHER RG-6
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A compact version of portable
+grenade launcher. Due to it's
+high rate of fire and hitting
+radius, this weapon is good for
+eliminating large gatherings of
+enemy infantry.
+
+<Rocket_muha>
+<Font=04>
+ROCKET LAUNCHER FLY-2
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost> 
+<split>
+<Font=03>
+Is a short-range, tube-launched, 
+infantry antitank rocket launcher, 
+similar to the US LAW system.
+It fires a 73-mm fin-stabilized 
+rocket with a HEAT warhead capable 
+of penetrating approximately 
+390 millimeters of armor.
+
+<Rocket_l1>
+<Font=04>
+ROCKET LAUNCHER SL-1
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A compact hand-held rocket launcher,
+effective against unarmored enemies.
+
+<Rocket_l2>
+<Font=04>
+RPG-7V
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A 40-mm grenade launcher, 1 m long. 
+Is intended for fighting against tanks, 
+self-propelled gun mountings and 
+other enemyï¿½s armoured targets.
+Fitted with optical and night sights.
+
+<Rocket_l2X4>
+<Font=04>
+ROCKET LAUNCHER DSx4
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A multiple-rocket launcher; has
+a high rate of fire but a long
+reload time. 
+
+
+<Burner>
+<Font=04>
+BURNER
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Used for welding metal, but can 
+weld flesh in a pinch. 
+
+
+<flamethrower1>
+<Font=04>
+FLAMETHROWER GH5
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A home-made flamethrower, jury-rigged
+from whatever materials are at hand. 
+Simple, but effective.
+
+<Rocket_auto_sd20>
+<Font=04>
+SLR 500 AUTO R5
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A modern hand-held launcher 
+model with auto-aiming 
+system. An optical device 
+enables target locking.
+
+
+<Rocket_autorain>
+<Font=04>
+ROCKET VOLCANO TF5 "RAIN"
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A hand-held rocket launcher 
+with an infrared aiming system. 
+A triple barrel provides a
+high rate of fire.
+
+
+<Rocket_napbost>
+<Font=04>
+FL5 NAPALM BOOSTER
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A hand-held rocket launcher 
+capable of inflicting huge 
+amounts of damage. Especially
+useful against large groups.
+
+<Rocket_big1>
+<Font=04>
+NTR-40 S1
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A hand-held rocket launcher 
+with nuclear charges. Has a
+large destruction radius 
+but a slow reload rate.
+
+
+<Energy_ligthpistol>
+<Font=04>
+LIGTHER-BLAST GF1 PISTOL
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A standard light pistol, 
+popular in modern 
+armies worldwide.
+
+
+<Energy_Laserpistol>
+<Font=04>
+LASER PISTOL S50
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+One of the first laser 
+pistols. Not very popular 
+due to its old construction.
+
+<Energy_LaserRife>
+<Font=04>
+GP53 LASER RIFLE
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A standard infantry laser weapon 
+with high accuracy. It can pierce
+most modern body armors.
+
+
+<Energy_pulserife>
+<Font=04>
+PR-1500 PULSE RIFLE
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:          <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A test pulse rifle model
+developed by the M.A.G.M.A.
+Energy Corporation.
+
+
+<Energy_LaserMinigun>
+<Font=04>
+SGP53-L1 LASER MINIGUN
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The most powerful close combat 
+weapon available. This monster has
+excellent accuracy and deals
+maximum damage.
+
+<Energy_reducer>
+<Font=04>
+T5 REDUCER BLASTER
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The latest achievement of 
+modern play-with-nature science.
+It shrinks the molecules of the target,
+making them smaller.
+
+
+<Energy_freeze>
+<Font=04>
+FR-Z5 FREEZE CANNON
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+This cannon shoots a special
+chemical that transforms
+aliens into aliensickles
+instantly.
+
+
+<Energy_ionrife>
+<Font=04>
+G200 ION RIFLE
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The Ion Rifle is one of the latest
+weapon industry designs. It has
+a strong beam that can pierce 
+the thickest of armors.
+
+<Energy_ioncannon>
+<Font=04>
+G5000 ION CANNON
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+An ion gun prototype. Its thickened 
+barrel and new cooling system 
+provides a more powerful energy focus.
+
+
+<Energy_plasmadis>
+<Font=04>
+PLASMA DESINTEGRATOR 5G
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The latest in the line of 
+heavy power guns.
+
+
+<Energy_PlazmaMiniGun>
+<Font=04>
+PLASMA MINIGUN SL2000
+<split>
+<Font=05>
+Damage:         <Align=14><Font=03><Damage><Font=05>
+Accuracy:       <Align=14><Font=03><Wp_acc><Font=05>
+Price:           <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The next generation of plasma 
+guns. Can deal incredible damage 
+to anything in its path.
+
+<Equip_Drone1>
+<Font=04>
+DRON M50
+<split>
+<Font=05>
+Damage:   <Align=14><Damage><Font=05>
+Durability: <Align=14><DroneMaxHp><Font=05>
+Price:     <Align=14><Cost><Font=05>
+<split>
+<Font=03>
+The simple model of battle 
+drones. A powerful CPU enables 
+quick aiming and firing.
+
+<Equip_Drone2>
+<Font=04>
+DRON M70
+<split>
+<Font=05>
+Damage:   <Align=14><Damage><Font=05>
+Durability: <Align=14><DroneMaxHp><Font=05>
+Price:     <Align=14><Cost><Font=05>
+<split>
+<Font=03>
+The latest model of battle 
+drones. Equipped with G5255 
+blaster, which can inflict lots
+of damage. A powerful CPU enables 
+quick aiming and firing.
+
+<Armor_Lethalg1>
+<Font=04>
+LEATHER ARMOR S1
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+The simplest of body armor 
+made of studded leather. 
+Capable of barely protecting
+the wearer, but it's better
+than nothing.
+
+
+<Armor_Lethals1>
+<Font=04>
+LEATHER ARMOR S2-R
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+An enhanced model of the
+S1 leather armor. Metal plates
+are infused within this model,
+increasing durability and
+survivability of the wearer.
+
+
+<Armor_Lethalg2>
+<Font=04>
+PLATES DF10
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+Lightweight body armor 
+made of plastic and metal 
+plates. Gives an average amount
+of protection.
+
+<Armor_plates>
+<Font=04>
+PLATES SPN10
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+An enhanced model of the
+DF10 body armor, with interwoven
+plates and ceramic armor 
+reinforcement.
+
+
+<Armor_G1>
+<Font=04>
+DEFENDER G1
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+The most effective lightweight
+body armor around. Its plates 
+are made from plastic and 
+a durable iron alloy.
+
+
+<Armor_bayonet>
+<Font=04>
+BAYONET SL-G105
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+The standard middleweight 
+class of body armor with
+good all-around protection.
+
+<Armor_BlueG2>
+<Font=04>
+DEFENDER BLUE G200
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+An enhanced model of the G1 
+series, infused with solid 
+titanium plates. 
+
+
+<Armor_bayonet2>
+<Font=04>
+BAYONET2 SL-P550
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+The most durable body armor 
+in the middleweight class,
+designed especially 
+for elite soldiers. 
+
+
+<Armor_heavy1>
+<Font=04>
+BLOCKER SG32-50
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+Based on the BAYONET series of
+armor, this model is designed
+to protect its wearer from severe 
+damage. Hydraulic boosters 
+minimize the armor's heavy weight, 
+but movement speed is decreased.
+
+<Armor_rejector>
+<Font=04>
+BATTLE SUIT SMR-25
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+Designed for special operations during 
+the Third World War. Provides the best 
+protection in the heavy armor class.
+
+<Armor_rejector2>
+<Font=04>
+BLOCKER SG32-10
+<split>
+<Font=05>
+Defense:        <Align=14><Font=03><Defence><Font=05>
+Durability:     <Align=14><Font=03><Hp><Font=05>
+Price:           <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+Light version of BLOCKER SG32-50. 
+Hydraulic boosters minimize 
+the armor's heavy weight, 
+but movement speed is decreased.
+
+<Equip_flash>
+<Font=04>
+POCKET FLASHLIGHT
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A typical pocket flashlight.
+
+
+<Equip_flash2>
+<Font=04>
+FLASHLIGHT X2
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+All-purpose flashlight.
+Provides good visibility. 
+Works for a long time.
+
+<Equip_nigthglass>
+<Font=04>
+NIGHT GLASSES S1
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+An older series of night vision 
+glasses; has a small field of 
+vision but is useful in dark places.
+
+<Equip_radar>
+<Font=04>
+RADAR G12
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A personal radar set, used to monitor 
+enemy positions.
+
+
+<uniq_implant1>
+<Font=04>
+SPD_SG 152G Booster
+<split>
+<Font=05>
+Speed increase:        <Align=14><Font=03>25<Font=03>
+Price:                  <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+An implant that is capable of
+increasing movement speed. 
+
+
+<implant_rnd1_1>
+<Font=04>
+SPMG 10-234 Booster
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+This implant released in SPMG 
+series is the simplest and 
+cheapest of all available 
+models.
+
+<implant_rnd1_2>
+<Font=04>
+SPMG 20-100 Booster
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+New from the SPMG implant line.
+
+<implant_rnd1_3>
+<Font=04>
+SPMG 30-177 Booster 
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+The thirtieth (and latest) SPMG 
+implant series.
+
+<implant_rnd2_1>
+<Font=04>
+SPMG2 10-096 Booster 
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+This second-generation implant 
+increases basic abilities
+considerably, which boosts 
+the price as well.
+
+<implant_rnd2_2>
+<Font=04>
+SPMG2 20-367 Booster 
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+An SPMG2 series implant.
+
+<implant_rnd2_3>
+<Font=04>
+SPMG2 30-351 Booster 
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+An SPMG2 series implant.
+
+<implant_rnd3_1>
+<Font=04>
+SPMG3 10-008 Booster 
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+A third-generation implant. If these were 
+not so cost prohibitive, modern armies 
+wouldn't need to arm their soldiers
+anymore, as this implant stimulates the
+body so much that the user becomes almost
+invulnerable.
+
+<implant_rnd3_2>
+<Font=04>
+SPMG3 20-101 Booster 
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+A third-generation implant.
+
+<implant_rnd3_3>
+<Font=04>
+SPMG3 30-235 Booster 
+<split>
+<Font=05>
+<Template>Boost      <ParamName>: <Align=14><Font=03><ParamVal><Font=05>
+Price:                   <Align=14><Font=03><Cost><Font=05>
+<split>
+<Font=03>
+The thirtieth release of the 
+third-generation implants.
+
+
+<Obj_dynamite>
+<Font=04>
+DYNAMITE
+<split>
+<Font=05>
+Damage:           <Align=14><Font=03>300<Font=05>
+<split>
+<Font=03>
+Dynamite with a timer delay.
+Set this baby and run like
+mad outside of its effective
+radius.
+
+<Obj_accesskey>
+<Font=04>
+ACCESS KEY 
+<split>
+<split>
+<Font=03>
+Key for lift 
+activation.
+
+
+<Obj_personalkey>
+<Font=04>
+STAFF ACCESS KEY 
+<split>
+<split>
+<Font=03>
+Staff Quarters access 
+key.
+
+
+<Obj_perkey_andry>
+<Font=04>
+STAFF ACCESS CARD
+<split>
+<split>
+<Font=03>
+Andrey Voropaevï¿½s access key.
+
+
+<Obj_perkey_statham>
+<Font=04>
+STAFF ACCESS CARD 
+<split>
+<split>
+<Font=03>
+Statham Madisonï¿½s access key.
+
+
+<Obj_seckey>
+<Font=04>
+SECURITY ACCESS CARD 
+<split>
+<split>
+<Font=03>
+Special key to access 
+security rooms.
+
+
+<Obj_redkey>
+<Font=04>
+SECRET ACCESS CARD 
+<split>
+<split>
+<Font=03>
+Gives access to secret 
+objects.
+
+
+<Obj_tankshell>
+<Font=04>
+100mm SHELLS 
+<split>
+<Font=05>
+Damage:           <Align=14><Font=03>300<Font=05>
+<split>
+<Font=03>
+Heavy shells, used in tanks or
+artillery-sized guns.
+
+<Obj_stabil>
+<Font=04>
+STABILIZER
+<split>
+<split>
+<Font=03>
+An electro-generator stabilizer, 
+used in high-voltage devices.
+
+
+<Obj_cigar>
+<Font=04>
+CIGARETTE PACK
+<split>
+<split>
+<Font=03>
+A box of menthol light cigarettes.
+
+
+<Bonus_health10>
+<Font=04>
+HEALTH +20
+<Font=03>
+  
+<Bonus_health50>
+<Font=04>
+HEALTH +50
+<Font=03>
+ 
+
+<Bonus_health100>
+<Font=04>
+HEALTH +100
+<Font=03>
+  
+
+<Bonus_ammo_box>
+<Font=04>
+BOX WITH AMMO 
+<Font=03>
+ 
+<Bonus_ammo_pistol>
+<Font=04>
++50 HANDGUN AMMO 
+<Font=03>
+ 
+
+<Bonus_ammo_shotgun>
+<Font=04>
++50 SHOTGUN SHELLS 
+<Font=03>
+ 
+
+<Bonus_ammo_minigun>
+<Font=04>
++150 ROUNDS 
+<Font=03>
+ 
+<Bonus_ammo_granade>
+<Font=04>
++25 GRENADES
+<Font=03>
+ 
+
+<Bonus_ammo_rocket>
+<Font=04>
++25 ROCKETS
+<Font=03>
+ 
+
+<Bonus_ammo_ballon>
+<Font=04>
++150 CANS
+<Font=03>
+
+<Bonus_ammo_energy>
+<Font=04>
++100 ENERGY CHARGES 
+<Font=03>
+
+<Equip_flash3>
+<Font=04>
+FLOODLIGHT
+<split>
+<Font=05>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+A special compact floodlight that
+provides excellent visibility.
+
+<Obj_accumulator>
+<Font=04>
+ACCUMULATOR
+<split>
+<split>
+<Font=03>
+Standard 12 volt 
+accumulator.
+
+<Obj_transf>
+<Font=04>
+TRANSFORMER BLOCK
+<split>
+<split>
+<Font=03>
+Will transform large
+quantity of energy.
+Application is not known.
+
+<Obj_cooling>
+<Font=04>
+COOLER BLOCK
+<split>
+<split>
+<Font=03>
+This device, 
+instantly cools any liquid.
+Application is not known.
+
+<Equip_medikit_small>
+<Font=04>
+SMALL MEDKIT
+<split>
+<Font=05>
+Health:   +<AddHp>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The simplest of medkits, with minimal
+set of drugs. Used automatically
+when your health gets too low.
+
+
+<Equip_medikit_big>
+<Font=04>
+MEDKIT
+<split>
+<Font=05>
+Health:   +<AddHp>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+Has a more diverse package than the Small
+Medkit, allowing the user to heal most
+severe wounds. Used automatically when 
+your health gets too low.
+
+
+<Equip_medikit_mega>
+<Font=04>
+MEGA MEDKIT
+<split>
+<Font=05>
+Health:   +<AddHp>
+Price:                      <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The ultimate in field body repair. This
+medikit restores full health instantly. 
+Used automatically when your
+health gets too low.
+
+<Obj_disk>
+<Font=04>
+DATA DISK
+<split>
+<split>
+<Font=03>
+The disk containing the confidential
+info about experiments 
+of the company.
+
+<Rocket_l3>
+<Font=04>
+RPG-29 VAMPIR
+<split>
+<Font=05>
+Damage:          <Align=14><Font=03><Damage><Font=05>
+Accuracy:        <Align=14><Font=03><Wp_acc><Font=05>
+Price:            <Align=14><Font=03><Cost>
+<split>
+<Font=03>
+The weapon is intended to engage hostile 
+tanks, including those outfitted with 
+explosive reactive armour, and other 
+armoured vehicles. 
+It is also used to suppress fire weapons 
+and manpower in buildings and hardened 
+bricks or concrete structures, as well 
+as in log-and-earth shelters.

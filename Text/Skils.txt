@@ -1,0 +1,159 @@
+<VidDirs>
+
+[712_0]
+Health
+Without it, life is far too short.
+A high Health guarantees longer
+life through damage absorption.
+Increasing this raises your hit points. 
+
+[712_1]
+Strength
+This is your general toughness and
+determines how many objects you
+can carry. Increasing this raises
+your hit points.
+
+[712_2]
+Speed
+Good for either charging into battle
+or running away. Influences your
+movement speed - these damn Aliens
+will have it more difficult to
+bite you in the neck.
+ 
+[712_3]
+Accuracy
+To hit the broad side of an alien's
+skull with any kind of gun, you'll
+need plenty of this skill. 
+
+
+[712_4]
+Intelligence
+The higher this is, the less like a
+doorknob you are, the higher IQ, 
+the better implants you can use.
+...you will also get more paranoid
+and you'll probably find French 
+movies more interesting, but that's
+a different story.
+
+[712_5]
+Armor Handling 
+Can't hack the pain? Increasing this
+skill increases the types of body
+armor you can wear.
+
+[712_5_surv]
+Self Defence
+These damn Aliens have a really hard
+time hitting you. Your skin is so 
+thick you could call it extra armor. 
+
+[712_6]
+Handguns
+Pistols might be small, but they're
+useful in tight situations. This skill
+increases your ability to use 
+handguns. 
+
+
+[712_7]
+Shotguns
+For solutions that don't require a 
+lot of subtlety, a shotgun is the
+answer. This skill increases your
+ability to use shotguns.
+
+[712_8]
+Submachine & Machine Guns
+For anyone with bad aim, or that likes
+to break lots of things really fast.
+This skill increases your ability to
+use submachine and machine guns.
+
+[712_9]
+Grenade & Rocket Launchers
+One shot, lots of kills. This skill
+increases your ability to use 
+grenade and rocket launchers.
+
+[712_10]
+Flamethrowers & Energy Weapons
+Good for giving things a deep-fried
+coat. This skill increases your 
+ability to use flamethrowers and power 
+arms (lasers and the like).
+
+
+[712_11]
+Cash
+Hopefully self-explanatory. Good for buying
+more of what you need to beat things into 
+a pulp.
+
+
+[713_0]
+Self-Treatment
+You always enjoyed playing with yourself -
+this skill enables you to heal yourself.
+Your body will regenerate automatically,
+just give it some time. 
+
+
+[713_1]
+Quick Learner
+If you want your character to advance more
+quickly, increase this, because it determines 
+how fast you learn things and how fast you spot 
+hidden items.
+
+
+[713_2]
+Economist
+Some see it as "thievery." You see it as 
+"proactive frugalness." A good Economist
+will be able to scrounge cash in the strangest
+of places.
+
+[713_3]
+Fast Shooter
+As the name says you are a fast shooter.
+No matter which weapon you use, your 
+shooting frequency is perfect.
+
+[713_4]
+Night vision
+Affects your ability to see in the dark
+(without the aid of artificial light
+sources).
+
+
+[713_5]
+Vampire
+A skill that really sucks. With this
+ability, your character can drain health
+from enemies to add to yours.
+Even Nosferatu couldn't do that better.
+
+[713_6]
+Hypnotist
+Become a master of staring with psychotic
+eyes. Let's you hypnotize and then control
+the enemy. Weird stuff! 
+
+[713_7]
+Observer
+Lets you spot hidden things, like secret places, 
+hidden items, Jimmy Hoffa, and legroom on
+airplanes.
+
+[713_8]
+
+[713_9]
+Boxer
+You are a professional boxer - not
+like Mickey Rourke! In close combat you
+kick serious ass!
+

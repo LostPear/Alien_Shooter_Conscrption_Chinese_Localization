@@ -1,0 +1,145 @@
+<Char1>
+Drake McMannis
+Age: 28
+
+    Heir to a family fortune, Drake never worries about money, spending whatever 
+he had on bling-bling, car rims and video games. 
+
+   Having watched thousands of hours of war movies he took his knowledge of 
+weaponry and put it to good use in the Army. He has a natural talent for 
+anything weapons-related, and his accuracy is near-legendary among his peers. 
+He even likes to splurge on pre-historic creatures like the Wooly Mammoth or 
+the Sabertooth Tiger, so he can hunt them down with his diamond FutureBow 3K.
+
+   After Drake made "Sexiest Creature Dead or Alive" for the 8th time, he had 
+to find new challenges: he was abandoned on the moon naked with only a 
+toothbrush.  Even that did not daunt him and he managed to return to earth a 
+little thinner but still alive.  
+
+
+
+<Char2>
+Erik Kamisi 
+Age: 35
+
+    Being the eldest child, Erik had no choice but to follow in his father's 
+footsteps. Unfortunately, his father was a miserable soldier and created havoc 
+wherever he went. Once he went to the local shopping mall - and took his battle 
+tank with him.
+
+   Regardless, Erik is a man that can be trusted to maintain his cool, even in dire 
+situations. He might not have many friends besides his collection of assault rifles, 
+but he can get the job done.
+
+   His son is also a simpleton, whose bicep measurements are much higher than 
+his I.Q.. It's rumored he almost counted to 11 on one occasion. It was a shining 
+achievement for the young man and today he's even running for Governor.
+
+
+
+<Char3>
+Julius Kriger
+Age: 38
+
+   After studying physics at Beijing University (the only university left standing 
+after the first Chinese Weltkultur-Revolution), Dr. Kriger invented the famous 
+'Laser-Tin-Opener DX', the only one that opens a cocktail fruit mix without 
+leaving any sharp edges.  
+
+   Later, the doctor discovered that with stronger batteries the can opener could 
+be used to slice open enemy soldiers without leaving any life endangering sharp 
+edges either.  
+
+   Young, but mature beyond his years, Julius is a 
+tremendous athlete and has a gift for weaponry.
+
+
+<Char4>
+Vincent 'Dove' St.Clair
+Age: 18
+
+   Vincent was raised in a Christian orphanage. Fond of McGayver on TV, who 
+built a bomb with nothing more than fertilizer, a spoon and shoe lace, Vincent 
+did the same and blew up his school. 
+
+   Now forced to live a secret life hidden in an attic, the doves became his only 
+friends - in every possible way you can imagine. He's suspected to have used 
+the birds to send mail bombs to various enemies.  When Vincent grew up, he 
+worked for YDeconstruction LTD, but because of his dyslexia, he often sent his 
+bombs to the wrong addresses and was forced to flee the country.
+
+
+
+
+<Char5>
+Nina Rossow
+Age: 28
+
+   Being the only girl among 5 brothers, Nina quickly learned the pleasure of 
+ordering around young men. But her family's reputation was anything but 
+illustrious. Her great-great Grandfather Rossow, for example, lost 30 % of 
+his skin when he tried to fry sausages with a flamethrower. 
+
+   Nina had no choice but to join the military to restore the family honor.  
+Extremely talented as a soldier, she quickly rose in rank and became her 
+brothers' commanding officer.
+
+
+
+<Char6>
+Sammy Swearengen 
+Age: 23
+
+    Sammy is young, fast, and dangerous. She grew up in a tough neighborhood 
+(Scottsdale, Arizona), went to a rough school (St. Joseph's Prepatory School), 
+and hung out with a tough crowd (After School Bible Study). As a result, she's 
+learned to maneuver herself with the grace of an athelete to avoid punishments 
+meted out by angry nuns. 
+
+   She's an expert at hand-to-hand combat, but when she fired her first ancient 
+rifle, she was hooked and spent all of her free time at the range, eventually 
+getting a job there and rising to owning it, all in the space of a few short years. 
+
+   She'd been involved in being a hired gun when a shooter at her range noticed 
+her ability, and she's always proven reliable, solid, and accurate, as long as 
+a gun is in her hands; remove it and she loses all of her focus. 
+
+
+<Char7>
+Jennifer Williams
+Age: 32
+
+   A previous commander of New York City's SWAT teams and experienced 
+anti-terrorist operative, Jennifer has taken part in 32 "New American Century" 
+operations spanning five continents. 
+
+   She's smart, highly trained, and a capable leader, making her stand out like a 
+sore thumb from the other operatives here. Besides having no life as an 
+international police specialist, Jennifer enjoys working on cars, and even races 
+them on dirt tracks when she has time. 
+
+   She's always fantasized of driving an M1 down the middle of Manhattan during 
+rush hour, and lives for that dream to come true someday.
+
+
+
+<Char8>
+Elena Nesser
+Age: 23
+
+   A spoiled child, Elena is equally spoiled as an adult, used to getting her way.
+Trouble is, she's about 99% right of the time, and she knows it. She never stays
+focused for long on any particular task, having tried as a young teen all kinds of
+sports from martial arts to chess, but never stayed interested in any one for long 
+before moving on. 
+
+   She has a real problem with authority figures, which makes her joining of the 
+Swedish Secret Service right out of high school something of a mystery. She put 
+in a few years, learned the tricks of the trade, and moved on to a more lucrative 
+field: mercenary work. She had felt trapped in her life before the action the 
+Secret Service gave her, looking for a way out. After having thought the world 
+had nothing to offer her but fine homes, expensive cars, and phony rich men. 
+She's since found that yes, Virginia, there is a blaster clause.
+
+
+
