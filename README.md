@@ -1,0 +1,1 @@
+# Alien_Shooter_Conscrption_Chinese_localization
