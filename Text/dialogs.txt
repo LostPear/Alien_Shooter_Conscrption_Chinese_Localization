@@ -6,100 +6,91 @@
 <Coor=0,0,100>
 ;<Speech=Speech\1_1.OGG>
 ;<click or pause>
-;åñëè èìÿ äèàëîãà òèïà <÷èñëî1_÷èñëî2>, òî ÷èñëî 2 äîëæíî áûòü ìåíüøå 1000
+;???? ??? ??????? ???? <?????1_?????2>, ?? ????? 2 ?????? ???? ?????? 1000
 
 ;************GENERAL************
 <1_1>
 <SFX=98>
-SECRET PLACE FOUND!
+·¢ÏÖÒş²Øµã£¡
 
 <1_2>
 <SFX=106>
-ACCESS DENIED!
+¾Ü¾ø·ÃÎÊ£¡
 
 <1_3>
 <SFX=106>
-SYSTEM ERROR
+ÏµÍ³´íÎó
 
 <1_3>
 <SFX=106>
-THE DOOR IS LOCKED FROM INSIDE
+ÃÅ´ÓÁíÒ»±ßËø×¡ÁË
 
 ;************LEVEL 1************
 <1>
 <Font=10>
 <Icon=391,2>
-Hey man! There's some crash on the bottom level 
-of the base again. Go and check this out
-while I am writing complaint
-against these builders!
+Î¹£¬²ËÄñ£¡»ùµØÏÂ²ãºÃÏñÓÖ³öÁËµãÎÊÌâ¡£
+ÎÒµÃĞ´ĞÅ¸ø¿ª·¢ÉÌ£¬Âé·³ÄãÏÈÈ¥¿´¿´£¡
 
 
 <2>
 <Font=10>
 <Icon=391,5>
-Good start, rookie!
-Our engineer likes to play the "Big Boss".
+±ğÔÚÒâ£¬»ï¼Æ£¡
+ÎÒÃÇµÄ¹¤³ÌÊ¦ÔÚË£´óÅÆÄØ¡£
 
 
 <3>
-Whoa, that's quite a hole,
-I better go and tell the engineer!
-
+ÍÛ£¬ºÃ´óÒ»¸ö¶´£¬
+ÎÒµÃ¸Ï½ôÈ¥¸æËß¹¤³ÌÊ¦£¡
 
 
 <4>
-Are you all crazy over there?!
+·¢ÉúÊ²Ã´ÊÂÁË£¿
 
 <pause>
-Where's the emergency lighter switch?
-
+Õâ¶¼Ã»½ô¼±ÕÕÃ÷Âğ£¿
 
 <5>
-Oh my, and I've been told it's a quite base.
+ºÃ°É£¬Ô­À´»¹ÊÇÓĞµÄ¡£
 
 <6>
-What a nice beast!
+ÕæÊÇ¸ö¿É°®µÄĞ¡¶«Î÷£¡
 
 <pause>
-Hey, stop biting!
+Î¹£¬±ğÒ§ÁË£¡
 
 
 <7>
 <Font=10>
 <Icon=391,2>
-Looks like I was wrong blaming the builders!
-General evacuation! Time to get lost!
+¿´À´ÊÇÎÒ´í¹Ö¿ª·¢ÉÌÁË£¡
+È«ÃæÊèÉ¢£¡×¥½ôÊ±¼ä£¡
 
 <pause>
-Where are YOU going? 
-Have'you seen the instruction?!
-File- server is situated on this level, 
-save or destroy the secret data!
-
+ÄãÈ¥ÄÄÁË£¿Ã»Ìıµ½ÎÒµÄÖ¸ÁîÂğ£¿
+ÎÄ¼ş·şÎñÆ÷¾ÍÔÚÕâ²ã£¬
+´¦ÀíµôÃØÃÜÊı¾İ£¡
 
 <8>
-Can't all the engineers be so much cowards...
+ÕâÈº¹¤³ÌÊ¦¶¼ÊÇµ¨Ğ¡¹íÂğ¡­¡­
 
 <pause>
-I'll try to reach the exit.
+ÎÒµÃ¸Ï½ôÕÒµ½³ö¿Ú¡£
 
 <9>
-It was really strange of me to wait for help
-from this engineer.
-How do I unlock this...
+ÔÚÕâ¸ÉµÈ¹¤³ÌÊ¦Ò²Ã»Ê²Ã´ÓÃ¡£
+¸ÃÔõÃ´´ò¿ªÄØ¡­¡­
 
 <10>
-Seems like control panel is there.
-If I don't find the key,
-the monsters will enjoy substantial launch. 
-
+¿ØÖÆÃæ°åÓ¦¸Ã¾ÍÔÚÕâÁË¡£
+ÒªÊÇÎÒÕÒ²»µ½Ô¿³×£¬¿É¾ÍÒªÔâÑêÁË¡£
 
 
 <10_1>
-Shall I go and let the monsters eat me or 
-shall I be tried by a military tribunal...
-I better die as a hero! 
+Ô­µØµÈ´ı£¬½á¾Ö¾ÍÊÇ±»¹ÖÎï³Ôµô£¬
+¶À×ÔÌÓ×ß£¬½á¾Ö¾ÍÊÇÉÏ¾üÊÂ·¨Í¥¡£
+ÄÄÑù¶¼ÊÇËÀ£¬»¹²»Èç³ÉÎªÓ¢ĞÛ£¡
 
 ;************LEVEL 2************
 <11>
@@ -393,7 +384,7 @@ SYSTEM STATUS:
 EMERGENCY MODE - ACTIVE
 DOORS BLOCK - 50%
 LIGHTING - INACTIVE
-PUMPS - ¹?&ERROR#$¹
+PUMPS - ??&ERROR#$?
 
 <50>
 Looks like this bunker is neglected
