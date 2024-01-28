@@ -30,7 +30,7 @@
 <Font=10>
 <Icon=391,2>
 喂，菜鸟！基地下层好像又出了点问题。
-我得写信给开发商，麻烦你先去看看！
+我得写信给开发商，你先给我去看看！
 
 
 <2>
@@ -68,15 +68,15 @@
 全面疏散！抓紧时间！
 
 <pause>
-你去哪了？没听到我的指令吗？
+你去哪了？听从我的指令！
 文件服务器就在这层，
-处理掉秘密数据！
+先备份好秘密数据！
 
 <8>
 这群工程师都是胆小鬼吗……
 
 <pause>
-我得赶紧找到出口。
+我得赶紧抵达出口。
 
 <9>
 在这干等工程师也没什么用。
@@ -94,78 +94,71 @@
 
 ;************LEVEL 2************
 <11>
-Seems it was much more quiet inside.
-Need to reach evacuation station.
+看来外面更乱。
+得先赶紧抵达撤离点。
 
 
 
 <12>
-Doesn't look like I can fly on this helicopter...
+我可不会开直升机……
 
 
 <13>
 <Font=10>
 <Icon=391,3>
 <SFX=115>
-Is the whole group destroyed?!
-
-...
-Go to the main square! Faster!
-we can't wait forever.
-
+整个团都牺牲了吗？！
+……
+快！去主广场！没时间了！
 
 
 <14>
 <Font=10>
 <Icon=391,5>
-Private!
-Follow me, my group needs reinforcement.
-It's an order!
+列兵，跟着我，我们团需要支援！
+这是命令！
 
 <15>
 <Font=10>
 <Icon=391,5>
-Where were you?!
+你刚刚去哪了？
 
 <pause>
-Take the explosive
-and destroy those beasts holes.
+用这些炸药，炸掉这群怪物的洞！
 
 
 <16>
 <Font=10>
 <Icon=391,5>
-Faster! We got time to clear off. 
+快！趁现在撤退！
 
 
 <17>
 <Font=10>
 <Icon=391,5>
-Everybody to the locations!
+所有人就位！
 
 <pause>
-Private, go to the center of the hall
-and bring me activation disk.
-Cover him!
+列兵，前往大厅中央，取回激活磁盘！
+其他人，掩护他！
 
 
 
 <18>
 <Font=10>
 <Icon=391,5>
-Not bad for the recruit.
+做得好，列兵。
 
 <pause>
-Field store is activated,
-in case you want to get out alive,
-replenish the ammunition load.
-You can go now.
-
+远程商店可以用了。
+如果想活下去，最好补充些弹药。
+你可以走了。
 
 
 <19>
-What a strange staff, was it really 
-important to risk my life for it...
+真是奇怪的命令，
+这东西真值得我拼上命吗……
+
 
 
 ;************LEVEL 3************
