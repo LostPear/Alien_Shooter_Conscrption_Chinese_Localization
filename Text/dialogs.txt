@@ -165,94 +165,81 @@
 <20>
 <Font=10>
 <Icon=391,2>
-Lucky you, not many people survived there.
-Go to the General, he would like to meet
-every survivor in person.
+你运气真好，能活下来的人并不多。
+去见将军吧，他想亲眼见见每个幸存者。
 
 
 <21>
 <Font=10>
 <Icon=391,0>
-Hope you realise that the situation
-on the battle- front isn't that good, 
-we are loosing the cities one by one.
+希望你能理解，前线的战况不容乐观，
+城市正在一座接一座地失守。
 <pause>
-If we don't initiate anything, the only 
-creatures left on the Earth will be those 
-beasts.
-
+如果不采取进一步行动，
+这些怪物迟早会消灭人类的。
 
 <22>
 <Font=10>
 <Icon=391,2>
-General, we got one more breakthrough
-in sector 5E13, they need help!
+上将，区域 5E13 防守困难，
+请求增援！
 
 <23>
 <Font=10>
 <Icon=391,0>
-Send sergeant Donaldson's 
-division there immediately!
+立刻派唐纳森中士的部队去！
 
 <pause>
-Private, I am adding you to
-Donaldson's division.
-Move to the control point 
-and pass this information.
-
+列兵，我现在将你编入唐纳森中士的部队。
+立即前往据点，传达消息！
 
 <24>
 <Font=10>
 <Icon=391,0>
-Corporal, you can go!
+下士，你可以行动了。
 
 
 <25>
 <Font=10>
 <Icon=391,5>
-Newbie!
-Let's see you fighting.
-Drop your gun and take this one,
-hope it will keep you alive longer.
-
+新人，让我们见识下你的身手！
+扔掉手上的东西，装上这把枪吧，
+希望它能让你多活一会！
 
 
 <26>
 <Font=10>
 <Icon=391,5>
-Sergeant is in barracks.
-Go through the basement, 
-the manhole is in the garage.
+中士就在军营里，
+到车库里，穿过地下室就能找到他了。
 
 
 <27>
 <Font=10>
 <Icon=391,5>
-Sergeant Donaldson is upstairs in his 
-room, you've been reported about.
+唐纳森中士在楼上。
+他已经知道你来了。
 
 
 <28>
 <Font=10>
 <Icon=391,6>
-Hope we're not late,
-Follow me!
+希望还不算迟。跟着我！
 
 
 <29>
 <Font=10>
 <Icon=391,6>
-Oh no!
-We'll go roundabout way.
+不好！我们得绕路了。
 
 
 <30>
 <Font=10>
 <Icon=391,6>
-To the position!
-The helicopters protect acesses to the sector,
-take the car and get rid of these beasts.
-Execute!
+各就各位！
+直升机在把守前往据点的通道，
+先坐车去汇合！快！
+
 
 
 ;************LEVEL 4************
@@ -267,6 +254,7 @@ from the childhood!
 
 
 <33>
+希望
 Hope I am not late for the party,
 need to hurry up!
 
