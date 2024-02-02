@@ -244,20 +244,16 @@
 
 ;************LEVEL 4************
 <31>
-I'll try to go round, walking
-would be less pleasant.
+得找找别的路，
+直接双腿走过去可不好玩。
 
 
 <32>
-Great! Well, walking is my favorite 
-from the childhood! 
+真好！我可最喜欢走路了。
 
 
 <33>
-希望
-Hope I am not late for the party,
-need to hurry up!
-
+但愿还赶得上去支援。得再快点！
 
 
 ;************LEVEL 5************
